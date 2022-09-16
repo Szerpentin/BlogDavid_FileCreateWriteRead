@@ -1,0 +1,1 @@
+﻿This repo is created for this blog post: https://blog.davidbollobas.hu/2022/10/04/create-write-read-text-file-using-c/
